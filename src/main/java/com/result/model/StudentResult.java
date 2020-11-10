@@ -21,7 +21,7 @@ public class StudentResult {
 
 	public StudentResult() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public StudentResult(int regno, String name, int mark1, int mark2, int mark3, int mark4, int mark5, int total,
